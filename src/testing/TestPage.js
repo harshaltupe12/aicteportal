@@ -1,7 +1,7 @@
 import React from "react";
 
 function TestPage() {
-  return <>hello</>;
+  return <></>;
 }
 
 export default TestPage;
